@@ -1,5 +1,6 @@
 /*
-
+Author: CHitrang Talaviya
+LinedIn: www.linkedin.com/in/chitrangtalaviya
 
 This file contains important bit manipulation problems in C++
 
@@ -10,7 +11,6 @@ This file contains important bit manipulation problems in C++
 #include <bitset>
 #include <math.h>
 #include <stdio.h>
-\
 
 using namespace std;
 
